@@ -1,7 +1,8 @@
 class Student{
     public Studen{
-        a == 10;
-        
+        int a == 10;
+
+
     }
   
 }

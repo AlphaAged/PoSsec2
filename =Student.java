@@ -1,4 +1,4 @@
 Student{
-asdasd
+    private crearte
   
 }
